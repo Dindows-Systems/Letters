@@ -1,16 +1,15 @@
   
-<Alphabets Game>
+<Letters Game>
 
-![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/raw/master/images/1.JPG)
+![Letters](https://github.com/Dashboard-X/Letters/raw/master/screenshots/1.JPG)
 
 is dependent game upon famous buzz javascript Library for html5 Audio Sound. 
 
-![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/raw/master/images/2.JPG)
+![Letters](https://github.com/Dashboard-X/Letters/raw/master/screenshots/2.JPG)
 
-this game is designed to keep infants in mind, who are in their early age to learn
-alphabets graphically.
+this game is designed to keep infants in mind, who are in their early age to learn alphabets graphically.
 
-![alphabets](https://github.com/Dashboard-X/alphabets-v1.0.0.0/raw/master/images/3.JPG)
+![Letters](https://github.com/Dashboard-X/Letters/raw/master/screenshots/3.JPG)
 
 <!DOCTYPE html>
 <html>
