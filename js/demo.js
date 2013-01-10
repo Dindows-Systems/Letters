@@ -17,7 +17,7 @@ buzz.defaults.formats = [ 'ogg', 'mp3' ];
 buzz.defaults.preload = 'metadata';
 
 var games = [
-    { img: 'img/letters.png', color:'#7FA917', word: 'letters!', sound: 'sounds/truck' },
+    { img: 'img/letters.png', color:'#7FA917', word: 'letters !', sound: 'sounds/truck' },
     { img: 'img/letter_a.png', color:'#BCC9CC', word: 'a', sound: 'sounds/a' },
 	{ img: 'img/letter_b.png', color:'#BCC9CC', word: 'b', sound: 'sounds/b' },
     { img: 'img/letter_c.png', color:'#BCC9CC', word: 'c', sound: 'sounds/c' },
