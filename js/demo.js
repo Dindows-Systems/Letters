@@ -3,15 +3,6 @@
 // Copyright (C) 2012 Jay Salvat
 // http://jaysalvat.com/
 // ----------------------------------------------------------------------------
-// Need awesome webdevelopments? Hire me!
-// ----------------------------------------------------------------------------
-// 
-// jQuery           http://jquery.com
-// jQuery Ui        http://ui.jquery.com
-// Buzz             http://buzz.jaysalvat.com
-// Illustrations    http://www.joker-park.com
-// 
-// ----------------------------------------------------------------------------
 
 buzz.defaults.formats = [ 'ogg', 'mp3' ];
 buzz.defaults.preload = 'metadata';
